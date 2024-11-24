@@ -51,7 +51,9 @@ header h2{
     
 }
 .navbar.scrolled{
-    background-color: rgba(0, 0, 0, 0.712);
+    nav ul li a{
+        color: rgba(0, 0, 0, 0.726);
+    }
     left: 0%;
     right: 0%;
     padding: 0 5%;
